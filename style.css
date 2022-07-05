@@ -1,0 +1,123 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding:0
+}
+
+
+/* first banner start here */
+#fst-banner{
+    display:flex
+}
+.clr-span{
+    color:tomato
+}
+
+.half-bnr{
+    width:50%;
+    padding: 2% 5%;
+}
+
+
+
+.bnr-img{
+    width:100%
+}
+
+.bnr-txt{
+    font-size:50px
+}
+
+.btn-style{
+    background: linear-gradient(tomato, red );
+    padding:10px 20px;
+    color:white;
+    border-radius: 30px;
+    text-decoration: none;
+    
+}
+
+.fst-btn{
+    margin-top:50px
+}
+
+/* first benner ends here */
+
+
+
+
+
+/* sec banner star there */
+
+#sec-banner{
+    background-image: url(images/Frame\ 57.jpg);
+    background-repeat: no-repeat;
+   background-size: cover;
+   display:flex
+}
+
+.btn{
+    margin-top: 90px;
+}
+
+.text{
+    padding-top:110px
+}
+
+
+/* sec bannner ends here */
+
+
+
+/* card design start here */
+
+
+
+.header{
+    text-align: center;
+    margin-top:50px
+}
+
+.card-dsn{
+    display: flex;
+
+}
+.card-dsn{
+    padding:60px
+}
+
+.card{
+    width: 50%;
+    padding:30px;
+    box-shadow: 5px 5px 15px 5px rgb(202, 199, 199);
+    margin: 5px 40px;
+    border-radius: 20px;
+}
+
+.card img{
+    width: 100%;
+}
+
+/* card design ends here */
+
+/* footer menu start here */
+
+
+#footer{
+    display:flex;
+    justify-content: center;
+    box-shadow: 5px 5px     15px 5px rgb(192, 187, 187);
+    margin: 15px 90px;
+    margin-bottom: 80px;
+    border-radius: 20px;
+   
+}  
+#footer div{
+    margin:2% 10%;
+}
+
+#footer div h1{
+    font-size:35px
+}
+
+/* footer ends here */
